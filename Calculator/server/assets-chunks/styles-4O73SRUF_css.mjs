@@ -1,0 +1,2 @@
+export default `*{margin:0;padding:0}body{position:relative;top:75px;display:flex;justify-content:center;background-color:#000}
+`;
